@@ -5,7 +5,9 @@ This research is structured using Python projects developed in Visual Studio Cod
 The “Code” directory encompasses the analytical workflows and scripts. The directory contains the following subfolders:
 
 •	Descriptive Analysis
+
 •	Statistical Analysis
+
 •	Results
 
 The “Descriptive Analysis” subfolder focuses on exploratory data analysis, with scripts dedicated to summarizing and visualizing variables such as disaster-related costs, disaster frequency, numerical trends over time, and other relevant metrics. This section provides foundational insights into data distributions, temporal patterns, and preliminary correlations.
