@@ -32,25 +32,45 @@ To recreate the exact dataset, the classification was set to 'Natural'. The sele
 
 
 ## EM-DAT columns with description ##
+
 •	DisNo: This column contains a unique identifier for each disaster occasion, formatted to encompass the 12 months, occasion number, and ISO Code.
+
 •	Historic: This column indicates whether or not the catastrophe is assessed as an historical event.
+
 •	Classification Key: This column presents a specific key describing the class of the catastrophe.
+
 •	Disaster Group: This column specifies the overall category of the disaster, such as "Natural."
+
 •	Disaster Subgroup: This column offers a more precise categorization in the catastrophe organization, which include "Hydrological" or "Meteorological."
+
 •	Disaster Type: This column defines the form of disaster, e.g., "Flood" or "Storm."
+
 •	Disaster Subtype: This column offers similarly element at the kind of catastrophe, inclusive of "Coastal Flood" or "Severe Weather."
+
 •	External IDs: This column consists of any outside identifiers connected to the disaster occasion, such as move-references to different datasets.
+
 •	Event Name: This column gives the name of the catastrophe event, if to be had.
+
 •	ISO: This column incorporates the ISO 3166-1 alpha-3 code representing the country wherein the disaster befell.
+
 •	Reconstruction Costs ('000 US$): This column lists the prices related to reconstruction efforts, expressed in thousands of US dollars.
+
 •	Reconstruction Costs, Adjusted ('000 US$): This column adjusts the reconstruction costs to account for inflation or different monetary elements, expressed in thousands of US dollars.
+
 •	Insured Damage ('000 US$): This column shows the insured damages due to the disaster, expressed in thousands of US dollars.
-•	Insured Damage, Adjusted ('000 US$): This column adjusts the insured damage charges
+
+•	Insured Damage, Adjusted ('000 US$): This column adjusts the insured damage charges.
+
 •	Total Damage ('000 US$): This column represents the entire anticipated economic price of the catastrophe, expressed in thousands of US dollars.
+
 •	Total Damage, Adjusted ('000 US$): This column adjusts the entire damage costs for inflation or other factors, expressed in thousands of US dollars.
+
 •	CPI: This column lists the Consumer Price Index (CPI) cost used to modify monetary figures to account for inflation.
-•	Admin Units: This column info administrative devices or regions inside the united states in which the disaster befell, if available.
+
+•	Admin Units: This column info administrative devices or regions inside the united states in which the disaster occured, if available.
+
 •	Entry Date: This column suggests the date while the disaster event was first entered into the database.
+
 •	Last Update: This column gives the most current date the document was up to date.
 
 ## Data Cleaning and Preprocessing ##
