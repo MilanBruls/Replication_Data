@@ -3,9 +3,11 @@
 ## Introduction ##
 This research is structured using Python projects developed in Visual Studio Code. The Replication Data is organised into dedicated directories for data, code, and results. The “Data” directory contains all datasets used in the study. Within this directory, the “All Data” subfolder contains the EM-DAT dataset, which provides comprehensive records of global disasters, including event types, economic costs, and human impacts. The “GDP_per_country” subfolder includes nominal GDP data for all countries.
 The “Code” directory encompasses the analytical workflows and scripts. The directory contains the following subfolders:
+
 •	Descriptive Analysis
 •	Statistical Analysis
 •	Results
+
 The “Descriptive Analysis” subfolder focuses on exploratory data analysis, with scripts dedicated to summarizing and visualizing variables such as disaster-related costs, disaster frequency, numerical trends over time, and other relevant metrics. This section provides foundational insights into data distributions, temporal patterns, and preliminary correlations.
 The “Statistical Analysis” subfolder is divided into two components: “Models Analysis” and “Research”. The “Models Analysis” subfolder contains implementations of various forecasting and statistical models, including ARIMA, GARCH, ETS, VAR, XGBoost, Prophet, Dynamic Linear Models, CAT models, and a Long-term trend model. These scripts are designed to predict disaster-related economic costs. 
 The “Research” subfolder addresses sub questions, such as the economic costs of severe weather events and regional or sectoral vulnerabilities to climate risks.
